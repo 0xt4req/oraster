@@ -2,7 +2,7 @@
 Open Redirect Testser
 
 # Installation:
-    git clone 
+    git clone https://github.com/0xt4req/oraster.git
     cd oraster
     python3 -r requirements.txt
     
